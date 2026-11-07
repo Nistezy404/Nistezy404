@@ -38,24 +38,6 @@ I continuously develop my technical skills through CTF challenges, cybersecurity
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-<!-- GitHub Stats -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Nistezy404&show_icons=true&theme=github_dark&hide_border=true&title_color=ff3333&icon_color=ff3333"
-  alt="GitHub Statistics"
-  width="480"
-/>
-
-<br/><br/>
-
-<!-- Top Languages -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nistezy404&layout=compact&theme=github_dark&hide_border=true&title_color=ff3333"
-  alt="Top Languages"
-  width="400"
-/>
-
 <br/><br/>
 
 <!-- GitHub Streak -->

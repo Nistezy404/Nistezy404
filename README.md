@@ -146,13 +146,9 @@ Currently improving my knowledge in:
 
 ## 🏆 Cybersecurity Platforms
 
-<div align="center">
-
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-CTF%20%26%20Labs-C11111?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Nistezy404)
 
 [![CyberDefenders](https://img.shields.io/badge/CyberDefenders-Blue%20Team%20%26%20DFIR-101820?style=for-the-badge)](https://cyberdefenders.org/p/Nistezy/)
-
-</div>
 
 ---
 

@@ -3,7 +3,7 @@
 
 # 👾 Mauricio Robert
 
-### Cybersecurity Enthusiast | Blue Team & DFIR | IT Infrastructure | Security Automation
+### Cybersecurity Enthusiast | Blue Team & DFIR | Pentester & CTF Player | IT Infrastructure | Security Automation
 
 **Cybersecurity Student • CTF Player • Security Researcher**
 

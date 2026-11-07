@@ -3,15 +3,15 @@
 
 # 👾 Mauricio Robert
 
-### Cybersecurity Enthusiast | Blue Team & DFIR | Pentester & CTF Player | IT Infrastructure | Security Automation
+### Cybersecurity Student | Blue Team & DFIR | CTF Player | IT Infrastructure | Security Automation
 
-**Cybersecurity Student • CTF Player • Security Researcher**
+**Cybersecurity Enthusiast • Security Research • Linux & Windows**
 
-Passionate about cybersecurity, threat detection, digital forensics, infrastructure security, and automation.
+Passionate about cybersecurity, threat detection, digital forensics, infrastructure security, offensive security, and automation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-robert-9b79b3309/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Nistezy404)
-[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-101820?style=for-the-badge&logo=hackthebox&logoColor=white)](https://cyberdefenders.org/p/Nistezy/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-C11111?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Nistezy404)
+[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-101820?style=for-the-badge)](https://cyberdefenders.org/p/Nistezy/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/n0hav3nam3/)
 
 </div>
@@ -21,30 +21,51 @@ Passionate about cybersecurity, threat detection, digital forensics, infrastruct
 ## 👨‍💻 About Me
 
 I'm a cybersecurity student and IT professional with hands-on experience in technical support, Windows and Linux infrastructure, endpoint management, troubleshooting, and process automation.
-I continuously develop my technical skills through CTF challenges, security laboratories, infrastructure projects, and practical research.
+
+My main interests are **Blue Team Operations, Digital Forensics & Incident Response (DFIR), Security Operations Centers (SOC), Threat Detection, Penetration Testing, and Security Engineering**.
+
+I continuously develop my technical skills through CTF challenges, cybersecurity laboratories, infrastructure projects, and practical security research.
 
 - 🛡️ Focused on **Blue Team, SOC & DFIR**
 - 🔍 Interested in **Threat Hunting, Incident Response & Log Analysis**
 - 🖥️ Experience with **Windows, Linux & IT Infrastructure**
 - ⚙️ Automation using **PowerShell, Python & Bash**
 - 🌐 Knowledge of **Networking, Firewalls & Network Security**
-- 🧪 Practicing cybersecurity through **CTFs & Security Labs**
-- 📚 Continuously learning **Detection Engineering & Security Monitoring**
+- 🧪 Practicing **Pentesting, CTFs & Security Labs**
+- 📚 Learning **Detection Engineering & Security Monitoring**
 
 ---
 
-## 🎯 Cybersecurity Focus
+## 📊 GitHub Statistics
 
-| Area | Technologies & Skills |
-|---|---|
-| 🛡️ Blue Team | Security Monitoring, SIEM, Log Analysis |
-| 🔎 DFIR | Digital Forensics, Incident Investigation |
-| 🚨 SOC | Alert Triage, Incident Analysis, Threat Detection |
-| 🌐 Network Security | TCP/IP, DNS, Firewalls, IDS/IPS, WAF |
-| 🐧 Linux Security | Hardening, Access Control, System Administration |
-| 🪟 Windows Security | Active Directory, Endpoint Security, Patch Management |
-| ⚙️ Automation | PowerShell, Python, Bash, Google Apps Script |
-| 🧪 Security Research | CTFs, Vulnerability Analysis, Security Labs |
+<div align="center">
+
+<!-- GitHub Stats -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Nistezy404&show_icons=true&theme=github_dark&hide_border=true&title_color=ff3333&icon_color=ff3333"
+  alt="GitHub Statistics"
+  width="480"
+/>
+
+<br/><br/>
+
+<!-- Top Languages -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nistezy404&layout=compact&theme=github_dark&hide_border=true&title_color=ff3333"
+  alt="Top Languages"
+  width="400"
+/>
+
+<br/><br/>
+
+<!-- GitHub Streak -->
+<img
+  src="https://streak-stats.demolab.com/?user=Nistezy404&theme=dark&hide_border=true&ring=ff3333&fire=ff3333&currStreakLabel=ff3333"
+  alt="GitHub Streak"
+  width="480"
+/>
+
+</div>
 
 ---
 
@@ -74,7 +95,7 @@ I continuously develop my technical skills through CTF challenges, security labo
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🌐 Infrastructure & DevOps
@@ -92,63 +113,48 @@ I continuously develop my technical skills through CTF challenges, security labo
 
 ## 🚀 Featured Projects
 
+### 🛡️ [Pentest-Tools](https://github.com/Nistezy404/Pentest-Tools)
+
+Collection of Python-based tools and scripts developed for penetration testing, cybersecurity research, CTF challenges, and security laboratories.
+
+**Key Topics:**
+- SQL Injection Testing
+- Subdomain Enumeration
+- Security Testing Automation
+- Web Application Security
+- Offensive Security Research
+
+**Technologies:** `Python` `Pentesting` `Web Security`
+
+---
+
 ### 🐧 [ServerDebian](https://github.com/Nistezy/ServerDebian)
 
-Linux server infrastructure project focused on deploying, configuring, managing, and securing Debian-based environments.
+Linux infrastructure project focused on deploying, configuring, administering, and securing Debian-based servers.
 
 **Key Topics:**
 - Linux Server Administration
 - Network Services
 - Infrastructure Security
-- Service Configuration
 - System Hardening
+- Service Configuration
+
+**Technologies:** `Debian` `Linux` `Networking`
+
+---
 
 ### 🏴 [CTF Writeups](https://github.com/Nistezy/CTF-Writeups)
 
 Collection of Capture The Flag writeups documenting practical cybersecurity challenges, investigation methodologies, tools, and technical findings.
 
 **Key Topics:**
-- Cybersecurity Challenges
-- Digital Forensics
-- Network Analysis
-- Vulnerability Research
+- Digital Forensics & Incident Response
+- Network Traffic Analysis
 - Security Investigation
+- Vulnerability Research
+- CTF Challenges
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nistezy404&show_icons=true&theme=github_dark&hide_border=true&title_color=ff3333&icon_color=ff3333)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nistezy404&layout=compact&theme=github_dark&hide_border=true&title_color=ff3333)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Nistezy404&theme=dark&hide_border=true&ring=ff3333&fire=ff3333&currStreakLabel=ff3333)
-
-</div>
-
----
-
-## 🧠 Continuous Learning
-
-Currently improving my knowledge in:
-
-- 🔵 Security Operations Center (SOC)
-- 🔍 Digital Forensics & Incident Response (DFIR)
-- 🛡️ Threat Detection & Threat Hunting
-- 📊 SIEM & Security Event Analysis
-- 🌐 Network Traffic Analysis
-- 🐧 Linux & Windows Security
-- ⚙️ Security Automation & Scripting
-
----
-
-## 🏆 Cybersecurity Platforms
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-CTF%20%26%20Labs-C11111?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Nistezy404)
-
-[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-Blue%20Team%20%26%20DFIR-101820?style=for-the-badge)](https://cyberdefenders.org/p/Nistezy/)
+**Focus:** `Blue Team` `DFIR` `Cybersecurity`
 
 ---
 

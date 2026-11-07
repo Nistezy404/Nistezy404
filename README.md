@@ -38,15 +38,13 @@ I continuously develop my technical skills through CTF challenges, cybersecurity
 
 ## 📊 GitHub Statistics
 
-<br/><br/>
-
-<!-- GitHub Streak -->
-<img
-  src="https://streak-stats.demolab.com/?user=Nistezy404&theme=dark&hide_border=true&ring=ff3333&fire=ff3333&currStreakLabel=ff3333"
-  alt="GitHub Streak"
-  width="480"
-/>
-
+<div align="center">
+  <!-- GitHub Streak -->
+  <img
+    src="https://streak-stats.demolab.com/?user=Nistezy404&theme=dark&hide_border=true&ring=ff3333&fire=ff3333&currStreakLabel=ff3333"
+    alt="GitHub Streak"
+    width="480"
+  />
 </div>
 
 ---
